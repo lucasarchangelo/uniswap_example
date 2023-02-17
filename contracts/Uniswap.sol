@@ -36,5 +36,4 @@ contract Uniswap {
 
             uniswapV2Router = _uniswapV2Router;
         }
-
 }
